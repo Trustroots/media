@@ -1,1 +1,1 @@
-moved to https://github.com/Trustroots/community/media
+moved to https://github.com/Trustroots/community/tree/master/media
